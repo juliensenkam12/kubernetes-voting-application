@@ -25,7 +25,7 @@ To deploy and manage this application effectively, we leverage Kubernetes and a 
 
 
 
-# in this project we have acqired a valuable learning experience on how application are being deployed into production environment. here is a list of detailed points/skills/services with used.
+# in this project we have acquired a valuable learning experience on how application are being deployed into production environment. here is a list of detailed points/skills/services we have used.
 
 1- Containerization: Gain hands-on experience with containerization technologies like Docker for packaging applications and their dependencies.
 
